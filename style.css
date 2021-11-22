@@ -1,0 +1,62 @@
+body{
+    background: rgb(37, 37, 37);}
+.border {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(211, 218, 153);
+    border-radius: 10px;
+}
+.Img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+.teks{font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);}
+    
+
+.teks2{ 
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;     
+    color: blanchedalmond;
+    font-size: 22px;
+}
+.howtomake{
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    text-align: center;
+    color: rgb(72, 255, 0);
+}
+.ingredientstool{
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
+.steptool{
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size:20px;}
+.myname{
+    font-family: 'Henny Penny', cursive;
+    font-family: 'Irish Grover', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size:18px;
+    text-align:center ;}   
